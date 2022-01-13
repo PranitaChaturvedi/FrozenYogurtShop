@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: ovs
-        image: jaibw/frozenyogurtshop:latest 
+        image: pranitachaturvedi/frozenyogurtshop:latest 
         ports:
         - containerPort: 80 
 
